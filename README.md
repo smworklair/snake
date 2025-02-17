@@ -1,1 +1,2 @@
 # snake
+    This is a snake game, here's everything you need to know about this game
